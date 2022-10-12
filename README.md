@@ -1,4 +1,5 @@
 ### Communication Final Project: EDA  
+Team Member: Patricia Ornelas Juaregui, Tim Ho, Kevin Kimmel  
 #### Step1. Run all the cells in the notebook.  
 #### Step2. Try the dashboard.  
 - Example 1:  [Interactive Plot on Dash](http://127.0.0.1/8060)  
